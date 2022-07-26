@@ -11,3 +11,422 @@
 1658747663170	geckodriver	INFO	Listening on 127.0.0.1:38951
 1658747670944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "44097" "--remote-allow-hosts" "localhost" "-no-remote"
 Read port: 43737
+1658749844863	geckodriver	INFO	Listening on 127.0.0.1:53331
+1658749845730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "50905" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 36101
+1658751070222	geckodriver	INFO	Listening on 127.0.0.1:60095
+1658751072178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "35093" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 39145
+1658751934169	geckodriver	INFO	Listening on 127.0.0.1:40137
+1658751935291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "37989" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 38231
+1658752214022	geckodriver	INFO	Listening on 127.0.0.1:53757
+1658752214840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "36499" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 37663
+1658752301434	geckodriver	INFO	Listening on 127.0.0.1:51987
+1658752302173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "35899" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 39709
+1658752432542	geckodriver	INFO	Listening on 127.0.0.1:47671
+1658752433291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "56375" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 34543
+1658752618937	geckodriver	INFO	Listening on 127.0.0.1:38169
+1658752619722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "32943" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 35447
+1658753519454	geckodriver	INFO	Listening on 127.0.0.1:59829
+1658753520417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "51999" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 33147
+1658755539990	geckodriver	INFO	Listening on 127.0.0.1:45727
+1658755541554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "58047" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 40163
+1658756766889	geckodriver	INFO	Listening on 127.0.0.1:43375
+1658756767670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "54963" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 37235
+1658756888617	geckodriver	INFO	Listening on 127.0.0.1:39253
+1658756889129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "37095" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 33787
+1658757083357	geckodriver	INFO	Listening on 127.0.0.1:36443
+1658757084345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "59789" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 43477
+1658757180023	geckodriver	INFO	Listening on 127.0.0.1:58443
+1658757181564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "48137" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 37899
+1658757300816	geckodriver	INFO	Listening on 127.0.0.1:54741
+1658757301893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "60819" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 35251
+1658757780237	geckodriver	INFO	Listening on 127.0.0.1:45503
+1658757782004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "35599" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 37577
+1658758351439	geckodriver	INFO	Listening on 127.0.0.1:47131
+1658758354128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "43599" "--remote-allow-hosts" "localhost" "-no-remote"
+1658758373745	geckodriver	INFO	Listening on 127.0.0.1:39253
+1658758374121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "54421" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 43769
+1658758498673	geckodriver	INFO	Listening on 127.0.0.1:38297
+1658758499338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "60903" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 38655
+1658759410898	geckodriver	INFO	Listening on 127.0.0.1:58961
+1658759411261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "38735" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 35835
+1658759730667	geckodriver	INFO	Listening on 127.0.0.1:59205
+1658759732157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "36301" "--remote-allow-hosts" "localhost" "-no-remote"
+1658759763980	geckodriver	INFO	Listening on 127.0.0.1:44115
+1658759764662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "37147" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 41331
+1658759867591	geckodriver	INFO	Listening on 127.0.0.1:49547
+1658759868264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "45965" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 38271
+1658760177572	geckodriver	INFO	Listening on 127.0.0.1:44771
+1658760177924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "57575" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 35241
+1658760311301	geckodriver	INFO	Listening on 127.0.0.1:43417
+1658760311661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "43723" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 40877
+1658760427617	geckodriver	INFO	Listening on 127.0.0.1:39999
+1658760428352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "52919" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 45295
+1658760544433	geckodriver	INFO	Listening on 127.0.0.1:50069
+1658760545304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "54543" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 43251
+1658812663883	geckodriver	INFO	Listening on 127.0.0.1:46853
+1658812665296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "33099" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 43251
+Read port: 39301
+1658812842873	geckodriver	INFO	Listening on 127.0.0.1:42713
+1658812843389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "49773" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 44403
+1658813095222	geckodriver	INFO	Listening on 127.0.0.1:52531
+1658813096179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "60907" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 40857
+1658813220206	geckodriver	INFO	Listening on 127.0.0.1:49727
+1658813221357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "56105" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 43613
+1658813938600	geckodriver	INFO	Listening on 127.0.0.1:38209
+1658813939576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "51335" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 43613
+Read port: 35743
+1658816191574	geckodriver	INFO	Listening on 127.0.0.1:36375
+1658816193714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "55957" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 43271
+1658818372518	geckodriver	INFO	Listening on 127.0.0.1:46917
+1658818375840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "36079" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43271
+Read port: 43723
+1658818462206	geckodriver	INFO	Listening on 127.0.0.1:43993
+1658818462822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "46449" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 46365
+1658819293943	geckodriver	INFO	Listening on 127.0.0.1:58375
+1658819296437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "60473" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 46365
+Read port: 45375
+1658819492852	geckodriver	INFO	Listening on 127.0.0.1:37565
+1658819493271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "40391" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 41965
+1658819653127	geckodriver	INFO	Listening on 127.0.0.1:46007
+1658819653511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "50495" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 40723
+1658819760510	geckodriver	INFO	Listening on 127.0.0.1:47363
+1658819760848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "50085" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 46059
+1658819908459	geckodriver	INFO	Listening on 127.0.0.1:49085
+1658819911176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "40049" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 39677
+1658820031393	geckodriver	INFO	Listening on 127.0.0.1:53349
+1658820031724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "36987" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 43479
+1658820235153	geckodriver	INFO	Listening on 127.0.0.1:54187
+1658820235503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "54817" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 41951
+1658820502460	geckodriver	INFO	Listening on 127.0.0.1:47101
+1658820503385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "42605" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 40517
+1658821103536	geckodriver	INFO	Listening on 127.0.0.1:46625
+1658821103899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "38083" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 40517
+Read port: 40517
+Read port: 40517
+Read port: 40517
+Read port: 40517
+Read port: 40517
+Read port: 40517
+Read port: 40517
+Read port: 40517
+Read port: 40517
+Read port: 40517
+Read port: 40517
+Read port: 40517
+Read port: 40517
+Read port: 40517
+Read port: 36977
+1658821526514	geckodriver	INFO	Listening on 127.0.0.1:56161
+1658821526871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "44789" "--remote-allow-hosts" "localhost" "-no-remote"
+1658821547131	geckodriver	INFO	Listening on 127.0.0.1:37913
+1658821547573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "48251" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 39713
+1658823092700	geckodriver	INFO	Listening on 127.0.0.1:42833
+1658823096534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "44541" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 46563
+1658823809985	geckodriver	INFO	Listening on 127.0.0.1:47845
+1658823814187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "33873" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 40979
+1658825386309	geckodriver	INFO	Listening on 127.0.0.1:33657
+1658825392326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "51131" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 40979
+Read port: 42417
+1658825516102	geckodriver	INFO	Listening on 127.0.0.1:40275
+1658825518019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "41083" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 46335
+1658825726602	geckodriver	INFO	Listening on 127.0.0.1:46693
+1658825729373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "50329" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 39763
+1658825917045	geckodriver	INFO	Listening on 127.0.0.1:47763
+1658825918386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "56291" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 40801
+1658831285548	geckodriver	INFO	Listening on 127.0.0.1:38617
+1658831297770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "57353" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 40801
+Read port: 32809
+Read port: 32809
+1658831434980	geckodriver	INFO	Listening on 127.0.0.1:51501
+1658831436149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "43923" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 45775
+1658831907346	geckodriver	INFO	Listening on 127.0.0.1:44265
+1658831908564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "46653" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 45627
+1658832030933	geckodriver	INFO	Listening on 127.0.0.1:45561
+1658832031656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "47659" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 33599
+1658832235109	geckodriver	INFO	Listening on 127.0.0.1:44099
+1658832235930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "34841" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 33691
+1658832594928	geckodriver	INFO	Listening on 127.0.0.1:59593
+1658832595751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "49337" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 46803
+1658832915353	geckodriver	INFO	Listening on 127.0.0.1:42045
+1658832916125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "36265" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 40005
+1658833146797	geckodriver	INFO	Listening on 127.0.0.1:37739
+1658833150408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "40699" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 42951
+1658833395721	geckodriver	INFO	Listening on 127.0.0.1:57567
+1658833396401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "44551" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 40905
+1658833787933	geckodriver	INFO	Listening on 127.0.0.1:39621
+1658833788421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "55957" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 35143
+1658833897398	geckodriver	INFO	Listening on 127.0.0.1:57133
+1658833897747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "56907" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 45267
+1658834084227	geckodriver	INFO	Listening on 127.0.0.1:59737
+1658834084581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--remote-debugging-port" "43257" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 38189
+1658837742185	geckodriver	INFO	Listening on 127.0.0.1:52923
+1658837743282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/askar/snap/firefox/common/.mozilla/firefox/tc2j6nxr.default-release" "--headless" "--remote-debugging-port" "34129" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 33113

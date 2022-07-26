@@ -1,13 +1,13 @@
 from datetime import time
+from unittest import TestCase
 
-import pytest
 from geckodriver.main_firefox import driver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 import time
 
 
-def test_main_menu_send_sharp():
+def main_menu_send_sharp():
     url = 'https://web.whatsapp.com/'
     try:
         # открываем страницу
@@ -42,11 +42,15 @@ def test_main_menu_send_sharp():
         time.sleep(20)
         messages_xpath = "//div[@class='_2wUmf message-in focusable-list-item']"
         last_messages = driver.find_elements(By.XPATH, messages_xpath)[-1]
-        assert "Привет.\n\nНа связи бот сервиса Wahelp" == last_messages.text[:38]
-        # driver.quit()
-
+        return last_messages.text[:38]
     except Exception as e:
         print(e)
     finally:
         driver.close()
         driver.quit()
+
+
+class ManFunctionsTestCase(TestCase):
+    def test_main_menu_send_sharp(self):
+        result = main_menu_send_sharp()
+        self.assertEqual(' Привет.\n\nНа связи бот сервиса Wahelp,', result)
